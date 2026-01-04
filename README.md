@@ -1,11 +1,12 @@
 # Wikipedia-Donation-Destroyer
 
-This is a simple Google Chrome Extension which does two things (and two things only)
+This is a simple Google Chrome Extension which does 3 things (and 3 things only)
 
 1. Blocks the Wikipedia "Donate or Wikipedia will die in 3 minutes!" popups.
 2. Displays the true financials of Wikipedia in a small, closable box.
+3. Provides a "See if this page is available on Grokipedia" link.
 
-<img width="976" height="417" alt="WikiScreenshot" src="https://github.com/user-attachments/assets/a2d5633c-54ba-4483-89a9-fd87789ff337" />
+<img width="1240" height="383" alt="Screenshot 2026-01-04 at 11 41 36 AM" src="https://github.com/user-attachments/assets/1964f3bb-f5ec-4361-8ed0-8eaf71c70804" />
 
 The Wikipedia Donation Destroyer will also display financial data for Mozilla, if you are on their website.  Just for good measure.
 
