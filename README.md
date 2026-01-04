@@ -20,8 +20,6 @@ You're welcome.
 
 Step 1) Download the extension [from the releases page](https://github.com/BryanLunduke/Wikipedia-Donation-Destroyer/releases) and extract the archive somewhere (or download the individual source files from the repository).
 
-<img width="726" height="436" alt="Screenshot 2026-01-04 at 10 49 07 AM" src="https://github.com/user-attachments/assets/73bcaae4-8fdc-45cf-afd3-3cee73343f0c" />
-
 Step 2) Within Chrome, enter the url: [chrome://extensions/](chrome://extensions/) and enable "Developer mode".
 
 <img width="965" height="133" alt="Screenshot 2026-01-04 at 10 51 45 AM" src="https://github.com/user-attachments/assets/4247cb8e-f671-4e32-bf4e-9021bc77fb27" />
